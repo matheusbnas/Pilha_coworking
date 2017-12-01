@@ -1,0 +1,70 @@
+Conheça a melhor forma de trabalhar em Nova Iguaçu!
+
+campo: Nome...
+campo: Ocupação...
+campo: E-mail...
+campo: Telefone...
+botão: inscreva-se
+-----------------------------------------------------------------------------------
+icon 1
+Mentes Conectadas
+Dividir espaço é uma tendência, já que várias cabeças pensam melhor do que uma.
+
+icon 2
+Ambiente Confortável
+Um ambiente criativo depende de tranquilidade e recursos.
+
+icon 3
+Custo Acessível
+Luva, água, luz, aluguél caro?! Esquece, nós somos a solução!
+
+-----------------------------------------------------------------------------------
+
+apres 1
+O que é Coworking?
+Uma nova forma de pensar sobre ambiente de trabalho. Um lugar inspirador que tem o poder de reunir pessoas diferentes e conectar ideias capazes de transformar vidas, utilizando negócios e tecnologia.
+
+apres 2
+Localização Estratégica
+Ficamos na Baixada Fluminense, em Nova Iguaçu. A cidade tem se mostrado adepta das novas tecnologias, pensamentos exponenciais e no estabelecimento de diversos empreendedores e startups.
+
+apres 3
+Processo Seletivo
+Nosso desejo é criar e manter uma comunidade de empreendedores na Baixada Fluminense que seja referência nacional de criatividade e inovação. Por isso temos um sistema de pré-seleção, onde alinhamos em entrevistas nossas visões com nossos residentes.
+
+-----------------------------------------------------------------------------------
+
+foto 1	Juan Zanelato - Diretor de Operações
+
+
+foto 2	Leonardo Gonçalves - Diretor de Negócios
+
+
+foto 3	Rafael Pereira - Diretor Executivo
+
+
+foto 4	Ramiro Lucena - Diretor de Marca
+
+
+foto 5	Wallace Patrocínio - Diretor de Comunicação
+
+-----------------------------------------------------------------------------------
+
+Saiba mais:
+
+botão: inscreva-se 
+(obs.: esse botão direciona para a parte de cima da página, onde existe o cadastro)
+
+-----------------------------------------------------------------------------------
+
+facebook 
+https://www.facebook.com/pilha.co/
+
+twitter 
+https://twitter.com/pilha_co
+
+instagram
+https://www.instagram.com/pilha.co/
+
+whatsapp
+http://bit.ly/2zI77rN

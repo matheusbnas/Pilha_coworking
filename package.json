@@ -13,17 +13,17 @@
   ],
   "homepage": "https://startbootstrap.com/template-overviews/landing-page",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/matheusbnas/Pilha_coworking/issues",
+    "email": "matheusbnas@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "David Miller (http://davidmiller.io/)","Matheus Bernardes"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page.git"
+    "url": "https://github.com/matheusbnas/Pilha_coworking"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
